@@ -1,7 +1,7 @@
 Quem sou!
 
 - 🔭 Atualmente estou trabalhando na Logtec sistemas como Analista QA
-- 🌱 JavaScript | HTML | CSS | React | C | Python | PostgreSql | Mysql | Delphi | TesteComplete
+- 🌱 JavaScript | HTML | CSS | React | C | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
 - 📩 Contate-me pelo email igor.developer.web@gmail.com
 
@@ -19,6 +19,8 @@ Quem sou!
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Igor-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Igor-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Igor-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Igor-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Igor-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Igor-Delphi" height="30" width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5ggvzJ44vFsPOR7ENvDjp9Uh8ChZWEsOZ2tC5es0bHmfS6Ze2lAkENfpQl2BL5pPgI0&usqp=CAU">
