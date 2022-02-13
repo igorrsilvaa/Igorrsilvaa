@@ -3,7 +3,8 @@ Quem sou!
 - 🔭 Atualmente estou trabalhando na Logtec sistemas como Analista QA
 - 🌱 JavaScript | HTML | CSS | React | C | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
-- 📩 Contate-me pelo email igor.developer.web@gmail.com
+- 📩 Contatos: email igorrsilvaa920@gmail.com
+               telefone 48991781573
 
 ##
 
