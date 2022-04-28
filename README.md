@@ -1,6 +1,7 @@
 Quem sou!
 
 - 🔭 Atualmente estou trabalhando na Logtec sistemas como Analista QA
+- Conhecimentos Basicos:
 - 🌱 JavaScript | HTML | CSS | React | C | Python | Git | GitHub | PostgreSql | Mysql | Delphi | TesteComplete
 - 🖥 Estou cursando Analise em desenvolvimento de sistemas
 - 📩 Contatos: email igorrsilvaa920@gmail.com
@@ -18,7 +19,6 @@ Quem sou!
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Igor-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
